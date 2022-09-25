@@ -1,9 +1,9 @@
 Shopping List
 
 apples
-bananas
+6 bananas
 yogurt
-milk
+2% milk
 wheat bread
 cereal
 eggs
@@ -19,3 +19,6 @@ sugar
 flour
 salsa
 butter
+coffee
+tomatoes
+pears
