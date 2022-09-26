@@ -1,7 +1,7 @@
 Shopping List
 
 apples
-bananas
+5 bananas
 yogurt
 milk
 wheat bread
