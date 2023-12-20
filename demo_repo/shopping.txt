@@ -18,3 +18,7 @@ ice cream
 sugar
 flour
 salsa
+salaga
+taart
+limonade
+snoep
